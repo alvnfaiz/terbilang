@@ -28,6 +28,7 @@ suite
   .add('input -> 200', () => terbilang(200))
   .add('input -> 201', () => terbilang(201))
   .add('input -> 212', () => terbilang(212))
+  .add('input -> 400', () => terbilang(400))
   .add('input -> 530', () => terbilang(530))
   .add('input -> 999', () => terbilang(999))
   .add('input -> 1000', () => terbilang(1000))
